@@ -17,6 +17,7 @@ This sample program is using the [bcm2835](http://www.airspayce.com/mikem/bcm283
 Finally, build and run the PIR-monitor sample program:
 
 ```
+git clone git@github.com:neilang/pir-monitor.git
 cd pir-monitor
 make
 sudo ./pir-monitor
